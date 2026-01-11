@@ -4,7 +4,7 @@ import speech_recognition as sr
 import webbrowser
 import os
 
-openai.api_key = "YOUR_OPENAI_API_KEY"
+openai.api_key = "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"
 
 def listen():
     r = sr.Recognizer()
